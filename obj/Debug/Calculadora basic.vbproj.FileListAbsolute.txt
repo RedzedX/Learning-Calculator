@@ -1,0 +1,22 @@
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\bin\Debug\Calculadora basic.exe.config
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\bin\Debug\Calculadora basic.exe
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\bin\Debug\Calculadora basic.pdb
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\bin\Debug\Calculadora basic.xml
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora_basic.Form1.resources
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora_basic.Resources.resources
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.exe
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.xml
+C:\Users\DELL\Desktop\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.pdb
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora_basic.Form1.resources
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora_basic.Resources.resources
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.exe
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.xml
+C:\Users\DELL\Desktop\programacion\Depresion\Calculadora basic\Calculadora basic\obj\Debug\Calculadora basic.pdb
